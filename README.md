@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-Guarulhos-28b463?style=flat&logo=ifsp&logoColor=white" alt="IFSP" style="margin:6px 4px">
 </a>
 
-<div style="width: 50%; display: flex; justify-content: center; align-items: flex-start;">
-    <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
+<div style="margin-top: 40px;" align="right" width="400px">
+    <img src="png/me.png" alt="Vikki">
   </div>
 
 <div>
