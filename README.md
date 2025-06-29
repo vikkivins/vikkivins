@@ -1,7 +1,7 @@
 ## Oi!! Eu sou a Vikki ✨
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
-  <img src="https://img.shields.io/badge/Instituto_Federal-Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/Instituto_Federal-Sao_Paulo-28b463?style=for-the-badge&plastic&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
