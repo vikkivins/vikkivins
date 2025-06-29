@@ -149,7 +149,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
     <a href="#">
-      <img src="svg/social/youtube.png" alt="youtube" style="vertical-align:top; margin:6px 4px">
+      <img src="png/social/youtube.png" alt="youtube" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
 
