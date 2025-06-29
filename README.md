@@ -2,8 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
 
-![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&locale=pt-br)
+<div>
+  <a href=#>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&locale=pt-br">
+</div>
 
 ## Frameworks
 <p align="center">
