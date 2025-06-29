@@ -6,7 +6,7 @@
 </a>
 
 <div style="margin-top: 40px;" align="right" width="400px">
-    <img src="png/me.png" alt="Vikki">
+    <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
   </div>
 
 <div>
