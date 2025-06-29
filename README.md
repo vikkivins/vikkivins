@@ -45,7 +45,7 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/Social_&_Profissional-8c03fc?style=social&logoColor=white" alt="Social-e-Profissional" style="margin:6px 4px"><br>
+    <br><img src="https://img.shields.io/badge/Social_&_Profissional-8c03fc?style=social&logoColor=white" alt="Social-e-Profissional" style="margin:6px 4px">
     <a href="mailto:viihallvees2012@gmail.com">
       <img src="https://img.shields.io/badge/Send_Me_a-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin:6px 4px">
     </a>
