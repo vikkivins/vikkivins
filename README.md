@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block; position: center;"><br>
-  <b>Frameworks & Libraries</b>
+  <b>Frameworks & Libraries</b><br>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="angular" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap" style="vertical-align:top; margin:6px 4px">  
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white" alt="ionic" style="vertical-align:top; margin:6px 4px">
@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="react-native" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=plastic&logo=xampp&logoColor=white" alt="xampp" style="vertical-align:top; margin:6px 4px">
  
-  <b>Tecnologias</b>
+  <b>Tecnologias</b><br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" alt="js" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Python-3285a8?style=plastic&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
 
-  <b>Office</b>
+  <b>Office</b><br>
     <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=plastic&logo=google-docs&logoColor=white" alt="google-docs" style="vertical-align:top; margin: 6px 4px">
     <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white" alt="microsoft-word" style="vertical-align:top; margin: 6px 4px">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="microsoft-excel" style="vertical-align:top; margin: 6px 4px">
@@ -37,13 +37,13 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" alt="notion" style="vertical-align:top; margin: 6px 4px">
     <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white" alt="trello" style="vertical-align:top; margin: 6px 4px">
 
-  <b>Ferramentas</b>
+  <b>Ferramentas</b><br>
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" alt="visual-studio" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="visual-studio-code" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white" alt="canva" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
 
-  <b>Database</b>
+  <b>Database</b><br>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="maria-db" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="mongo-db" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px">
