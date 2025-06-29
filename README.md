@@ -10,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
 </div>
-<br>
 
 <h1>⚙️Com o que eu já trabalhei?</h1>
 
@@ -33,7 +32,7 @@
   <div style="margin-top: 40px;" align="right">
   </div>
 </div>
-
+<h1>💻Contato e Redes</h1>
 
 <div>
     <br>
