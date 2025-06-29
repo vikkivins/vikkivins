@@ -1,11 +1,15 @@
-## Oi!! Eu sou a Vikki ✨
+<div style="position:center;">
+<h1>Oi!! Eu sou a Vikki ✨</h1>
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
 <a href="https://gru.ifsp.edu.br/">
   <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-Guarulhos-28b463?style=flat&logo=ifsp&logoColor=white" alt="IFSP" style="margin:6px 4px">
 </a>
+</div>
 
-<div style="margin-top: 40px;" align="left" width="200px">
+<div style="margin-top: 40px;" align="right" width="400px">
+  <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
+</div>
     <img src="https://img.shields.io/badge/Expo_Go-1B1F23?style=flat&logo=expo&logoColor=white" alt="expo-go" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" alt="fast-api" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="flask" style="margin:6px 4px">
@@ -16,11 +20,7 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="js" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Python-3285a8?style=flat&logo=python&logoColor=white" alt="python" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="mysql" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white" alt="php-myadmin" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px">
-    <div style="margin-top: 40px;" align="right" width="400px">
-    <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
-    </div>
   </div>
 
 
