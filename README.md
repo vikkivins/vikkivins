@@ -1,4 +1,79 @@
-## Hi there 👋
+## Oi!! Eu sou a Vikki ✨
+<p align="left">
+    <a href="#">
+      <img src="svg/pronouns/sheher.svg" alt="she / her" style="vertical-align:top; margin:6px 4px">
+    </a> 
+</p>
+
+![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
+
+## Frameworks
+<p align="center">
+  <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>   
+ <a href="#">
+    <img src="svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+## Tecnologias
+<p align="center">
+    <a href="#">
+      <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+      <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    </a>
+</p>
+
+## Misc
+<p align="center">
+    <a href="#">
+      <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+      <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
+    </a> 
+</p>
+
+## Ferramentas
+<p align="center">
+    <a href="#">
+      <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+      <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+      <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+    </a>
+</p>
+
+## Social & Profissional
+<p align="center">
+    <a href="#">
+      <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    </a>  
+    <a href="#">
+      <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    </a>  
+</p>
 
 <!--
 **vikkivins/vikkivins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
