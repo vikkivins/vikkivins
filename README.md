@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dot-net" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo%20go&logoColor=white" alt="expo-go" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="expo-go" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="fast-api" style="vertical-align:top; margin:6px 4px">
@@ -149,7 +149,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
     <a href="#">
-      <img src="png/social/youtube.png" alt="youtube" style="vertical-align:top; margin:6px 4px">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
 
