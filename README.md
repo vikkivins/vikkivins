@@ -6,7 +6,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
-![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=dracula)
+![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight)
 
 ## Frameworks
 <p align="center">
