@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
 
-![Vikki's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight#gh-dark-mode-only&locale=pt-br)
-![Vikki's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight#gh-light-mode-only&bg-color=00000000&locale=pt-br)
+![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br)
 
 ## Frameworks
 <p align="center">
