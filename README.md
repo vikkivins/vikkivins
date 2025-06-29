@@ -37,21 +37,23 @@
 <div>
     <br>
     <a href="mailto:viihallvees2012@gmail.com">
-      <img src="https://img.shields.io/badge/Send_Me_a-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin:6px 4px">
     </a>
     <a href="mailto:victoria.oliveira2016@hotmail.com">
-      <img src="https://img.shields.io/badge/Send_Me_a-Outlook-0078D4?style=flat&logo=outlook&logoColor=white" alt="outlook" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=outlook&logoColor=white" alt="outlook" style="margin:6px 4px">
     </a>
     <a href="https://www.instagram.com/v.ikkiti/">
-      <img src="https://img.shields.io/badge/Check_My-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" style="margin:6px 4px">
     </a>
     <a href="https://www.linkedin.com/in/victoria-oliveira-ti/">
-      <img src="https://img.shields.io/badge/Check_My-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin:6px 4px">
     </a>
     <a href="https://www.youtube.com/@vikkiti">
-      <img src="https://img.shields.io/badge/Check_My-YouTube-CD201F?style=flat&logo=youtube&logoColor=white" alt="youtube" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/YouTube-CD201F?style=flat&logo=youtube&logoColor=white" alt="youtube" style="margin:6px 4px">
     </a>
 </div>
+
+<img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
 <!--
 **vikkivins/vikkivins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
