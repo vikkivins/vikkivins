@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-Guarulhos-28b463?style=flat&logo=ifsp&logoColor=white" alt="IFSP" style="margin:6px 4px">
 </a>
 </div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
+</div>
+<br>
 
-<br>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
-  </div>
-<br>
+<h1>⚙️Com o que eu já trabalhei?</h1>
 
 <div>
  <div style="margin-top: 40px;" align="left">
