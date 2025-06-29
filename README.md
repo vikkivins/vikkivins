@@ -7,22 +7,23 @@
 </a>
 </div>
 
-<div style="margin-top: 40px;" align="right" width="400px">
-  <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
-  <div style="" align="left">
-  <img src="https://img.shields.io/badge/Expo_Go-1B1F23?style=flat&logo=expo&logoColor=white" alt="expo-go" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" alt="fast-api" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="flask" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" alt="postman" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react-native" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="js" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/Python-3285a8?style=flat&logo=python&logoColor=white" alt="python" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="mysql" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px">
+<div>
+ <div style="margin-top: 40px;" align="left">
+    <img src="https://img.shields.io/badge/Expo_Go-1B1F23?style=flat&logo=expo&logoColor=white" alt="expo-go" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" alt="fast-api" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="flask" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" alt="postman" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react-native" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="js" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Python-3285a8?style=flat&logo=python&logoColor=white" alt="python" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="mysql" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px">
   </div>
-
+  <div style="margin-top: 40px;" align="right">
+  <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;">
+  </div>
 </div>
     
 
