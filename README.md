@@ -5,9 +5,10 @@
   <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-Guarulhos-28b463?style=flat&logo=ifsp&logoColor=white" alt="IFSP" style="margin:6px 4px">
 </a>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
     <img src="https://img.shields.io/badge/Framework_&_Libraries-8c03fc?style=social&logoColor=white" alt="Framework-E-Libraries" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="angular" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap" style="margin:6px 4px">  
@@ -42,6 +43,10 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="mysql" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white" alt="php-myadmin" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px"><br>
+  </div>
+  <div>
+    <img src="png/me.png" alt="Vikki" style="max-width: 250px; border-radius: 15px; margin-top: 20px;">
+  </div>
 </div>
 
 <div>
@@ -61,10 +66,6 @@
     <a href="https://www.youtube.com/@vikkiti">
       <img src="https://img.shields.io/badge/Check_My-YouTube-CD201F?style=flat&logo=youtube&logoColor=white" alt="youtube" style="margin:6px 4px">
     </a>
-</div>
-
-<div>
-<img src=png/me.png>
 </div>
 
 <!--
