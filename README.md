@@ -1,11 +1,7 @@
 ## Oi!! Eu sou a Vikki ✨
-<p align="left">
-    <a href="#">
-      <img src="svg/pronouns/sheher.svg" alt="she / her" style="vertical-align:top; margin:6px 4px">
-    </a> 
-</p>
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
+
 ![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight)
 
 ## Frameworks
