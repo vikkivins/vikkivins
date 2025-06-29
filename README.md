@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet)
 
-![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br)
+![Vikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikkivins&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&locale=pt-br)
 
 ## Frameworks
