@@ -1,7 +1,9 @@
 ## Oi!! Eu sou a Vikki ✨
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
-  <img src="https://img.shields.io/badge/Instituto_Federal-Sao_Paulo-28b463?style=plastic&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
+<a href="https://gru.ifsp.edu.br/">
+  <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-Guarulhos-28b463?style=plastic&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
+</a>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
@@ -25,7 +27,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" alt="js" style="vertical-align:top; margin:6px 4px">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Python-3285a8?style=plastic&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
 
   <b>Office</b><br>
     <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=plastic&logo=google-docs&logoColor=white" alt="google-docs" style="vertical-align:top; margin: 6px 4px">
