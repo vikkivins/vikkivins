@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
 
 <a href="#">
-  <img src="https://img.shields.io/badge/INSTITUTO%FEDERAL%DE%SAO%20PAULO-28b463" alt="IFSP" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/Instituto_Federal_de_SP-28b463?style=for-the-badge&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <div>
@@ -149,7 +149,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
     <a href="#">
-      <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+      <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
 
