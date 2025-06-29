@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br">
 </div>
 
-<div style="display: inline_block; position: center;"><br>
+<div style="display: inline-block; margin: 0 auto; text-align: center;">
   <b>Frameworks & Libraries</b><br>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="angular" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap" style="vertical-align:top; margin:6px 4px">  
