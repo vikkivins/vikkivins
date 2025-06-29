@@ -7,9 +7,17 @@
 </a>
 </div>
 
+<br>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
+  </div>
+<br>
+
 <div>
  <div style="margin-top: 40px;" align="left">
  <img src="png/me.png" alt="Vikki" style="width: 200px; height: 200px; object-fit: cover; border-radius: 15px; margin-top: 20px;" align="right">
+    <p></p>
     <img src="https://img.shields.io/badge/Expo_Go-1B1F23?style=flat&logo=expo&logoColor=white" alt="expo-go" style="margin:6px 4px">
       <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" alt="fast-api" style="margin:6px 4px">
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="flask" style="margin:6px 4px">
@@ -25,11 +33,6 @@
   <div style="margin-top: 40px;" align="right">
   </div>
 </div>
-<br>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
-  </div>
 
 
 <div>
