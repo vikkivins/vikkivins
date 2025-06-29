@@ -7,7 +7,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
     <img src="https://img.shields.io/badge/Framework_&_Libraries-8c03fc?style=social&logoColor=white" alt="Framework-E-Libraries" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="angular" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap" style="margin:6px 4px">  
