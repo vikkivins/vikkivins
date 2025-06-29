@@ -1,10 +1,10 @@
 ## Oi!! Eu sou a Vikki ✨
-<div>
-  ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
-  </a>
-</div>
+
+![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) <a href="#">
+
+
+  <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
+</a>
 
 <div>
   <a href=#>
