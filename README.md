@@ -1,8 +1,8 @@
 ## Oi!! Eu sou a Vikki ✨
 
-![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) <a href="#">
+![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
 
-
+<a href="#">
   <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
 </a>
 
@@ -12,8 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br">
 </div>
 
-## Frameworks & Libraries
-<p align="center">
+<div style="display: inline_block"><br>
+<b><theme="tokyonight">Frameworks & Libraries</b>
   <a href="#">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -44,9 +44,8 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp" style="vertical-align:top; margin:6px 4px">
   </a>  
-</p>
 
-## Tecnologias
+<b><theme="tokyonight">Tecnologias</b>
 <p align="center">
     <a href="#">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
@@ -60,22 +59,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" style="vertical-align:top; margin:6px 4px">
     </a>
-    
-
-</p>
-
-## Misc
-<p align="center">
-    <a href="#">
-      <img src="svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-    </a> 
-    <a href="#">
-      <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
-    </a> 
-</p>
-
-## Office
-<p align="center">
+<b><theme="tokyonight">Office</b>
   <a href="#">
     <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" alt="google-docs" style="vertical-align:top; margin: 6px 4px">
   </a>
@@ -94,64 +78,55 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" style="vertical-align:top; margin: 6px 4px">
   </a>
-</p>
+<b><theme="tokyonight">Ferramentas</b>
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-studio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual-studio-code" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
+  </a>
+<b><theme="tokyonight">Database</b>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="maria-db" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-db" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="php-myadmin" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre-sql" style="vertical-align:top; margin:6px 4px">
+  </a>
 
-## Ferramentas
-<p align="center">
-    <a href="#">
-      <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-    </a> 
-    <a href="#">
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-studio" style="vertical-align:top; margin:6px 4px">
-    </a> 
-    <a href="#">
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual-studio-code" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:6px 4px">
-    </a>
-</p>
-
-## Database
-<p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="maria-db" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo-db" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="php-myadmin" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre-sql" style="vertical-align:top; margin:6px 4px">
-    </a>
-</p>
-
-## Social & Profissional
-<p align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    <a href="#">
-      <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="vertical-align:top; margin:6px 4px">
-    </a>
-</p>
+<b><theme="tokyonight">Social & Profissional</b>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 <!--
 **vikkivins/vikkivins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
