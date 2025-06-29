@@ -23,18 +23,14 @@
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px">
   </div>
   <div style="margin-top: 40px;" align="right">
-  
   </div>
 </div>
-    
-
-<div>
+<br>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br"><br>
-    
   </div>
-</div>
+
 
 <div>
     <br>
