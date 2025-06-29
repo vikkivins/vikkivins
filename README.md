@@ -53,13 +53,13 @@
       <img src="https://img.shields.io/badge/Send_Me_a-Outlook-0078D4?style=plastic&logo=outlook&logoColor=white" alt="outlook" style="margin:6px 4px">
     </a>
     <a href="https://www.instagram.com/v.ikkiti/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="instagram" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Check_My-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="instagram" style="margin:6px 4px">
     </a>
     <a href="https://www.linkedin.com/in/victoria-oliveira-ti/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Check_My-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="linkedin" style="margin:6px 4px">
     </a>
     <a href="https://www.youtube.com/@vikkiti">
-      <img src="https://img.shields.io/badge/YouTube-CD201F?style=plastic&logo=youtube&logoColor=white" alt="youtube" style="margin:6px 4px">
+      <img src="https://img.shields.io/badge/Check_My-YouTube-CD201F?style=plastic&logo=youtube&logoColor=white" alt="youtube" style="margin:6px 4px">
     </a>
 </div>
 
