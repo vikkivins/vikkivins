@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="mongo-db" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="mysql" style="margin:6px 4px">
     <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white" alt="php-myadmin" style="margin:6px 4px">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="postgre-sql" style="margin:6px 4px"><br>
     <img src="https://img.shields.io/badge/Social_&_Profissional-8c03fc?style=social&logoColor=white" alt="Social-e-Profissional" style="margin:6px 4px">
     <a href="mailto:viihallvees2012@gmail.com">
       <img src="https://img.shields.io/badge/Send_Me_a-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin:6px 4px">
