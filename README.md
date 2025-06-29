@@ -47,10 +47,10 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="postgre-sql" style="vertical-align:top; margin:6px 4px">
     <img src="https://img.shields.io/badge/Social_&_Profissional-8c03fc?style=social&logoColor=white" alt="Social-e-Profissional" style="vertical-align:top; margin:6px 4px">
     <a href="mailto:viihallvees2012@gmail.com">
-      <img src="https://img.shields.io/badge/Send-Me-A-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
+      <img src="https://img.shields.io/badge/Send_Me_a-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="mailto:victoria.oliveira2016@hotmail.com">
-      <img src="https://img.shields.io/badge/Send-Me-A-Outlook-0078D4?style=plastic&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
+      <img src="https://img.shields.io/badge/Send_Me_a-Outlook-0078D4?style=plastic&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="https://www.instagram.com/v.ikkiti/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top; margin:6px 4px">
