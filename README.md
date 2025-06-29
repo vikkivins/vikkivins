@@ -62,19 +62,19 @@
 ## Social & Profissional
 <p align="center">
     <a href="#">
-      <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+      <img src="svg/social/gmail.png" alt="gmail" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
-      <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+      <img src="svg/social/outlook.png" alt="outlook" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
-      <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+      <img src="svg/social/instagram.png" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
     <a href="#">
-      <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+      <img src="svg/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
     <a href="#">
-      <img src="svg/social/youtube" alt="youtube" style="vertical-align:top; margin:6px 4px">
+      <img src="svg/social/youtube.png" alt="youtube" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
 
