@@ -1,17 +1,11 @@
 ## Oi!! Eu sou a Vikki ✨
 
 ![](https://komarev.com/ghpvc/?username=vikkivins&color=blueviolet) 
-<a href="#">
-  <img src="https://img.shields.io/badge/Instituto_Federal_de_Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
-</a>
+  <img src="https://img.shields.io/badge/Instituto_Federal-Sao_Paulo-28b463?style=for-the-badge&logo=ifsp&logoColor=white" alt="IFSP" style="vertical-align:top; margin:6px 4px">
 
 <div>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
-  </a>
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikkivins&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikkivins&layout=compact&theme=tokyonight&locale=pt-br">
 </div>
 
 <div style="display: inline_block"><br>
@@ -55,19 +49,19 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre-sql" style="vertical-align:top; margin:6px 4px">
 
   <b>Social & Profissional</b>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
+    <a href="mailto:viihallvees2012@gmail.com">
+      <img src="https://img.shields.io/badge/Send-Me-A-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
+    <a href="mailto:victoria.oliveira2016@hotmail.com">
+      <img src="https://img.shields.io/badge/Send-Me-A-Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="outlook" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
+    <a href="https://www.instagram.com/v.ikkiti/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/victoria-oliveira-ti/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>
-    <a href="#">
+    <a href="https://www.youtube.com/@vikkiti">
       <img src="https://img.shields.io/badge/YouTube-CD201F?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="vertical-align:top; margin:6px 4px">
     </a>
 </div>
